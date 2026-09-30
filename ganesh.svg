@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="श्री गणेश">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="35%" r="65%">
+      <stop offset="0" stop-color="#fff4c2"/>
+      <stop offset="1" stop-color="#f6c44f"/>
+    </radialGradient>
+  </defs>
+  <circle cx="120" cy="120" r="112" fill="#fff9e7" stroke="#d88916" stroke-width="5"/>
+  <path d="M68 92 C55 68 67 47 88 47 C105 47 112 62 108 80 C104 96 92 107 83 115" fill="none" stroke="#b35b14" stroke-width="13" stroke-linecap="round"/>
+  <path d="M172 92 C185 68 173 47 152 47 C135 47 128 62 132 80 C136 96 148 107 157 115" fill="none" stroke="#b35b14" stroke-width="13" stroke-linecap="round"/>
+  <path d="M84 99 C82 72 98 57 120 57 C142 57 158 72 156 99 L151 132 C148 155 135 171 120 171 C105 171 92 155 89 132 Z" fill="url(#g)" stroke="#b35b14" stroke-width="5"/>
+  <path d="M120 91 C111 105 104 118 108 132 C112 146 130 151 140 137 C146 128 141 115 133 111" fill="none" stroke="#b35b14" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="104" cy="103" r="4" fill="#4d2a16"/><circle cx="136" cy="103" r="4" fill="#4d2a16"/>
+  <path d="M108 79 Q120 88 132 79" fill="none" stroke="#b35b14" stroke-width="5"/>
+  <path d="M99 177 Q120 194 141 177" fill="none" stroke="#b35b14" stroke-width="6" stroke-linecap="round"/>
+  <path d="M81 174 L64 196 M159 174 L176 196" stroke="#b35b14" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="120" cy="28" r="6" fill="#d88916"/>
+</svg>
